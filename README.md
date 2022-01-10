@@ -17,4 +17,4 @@ My name is Christabel Khumalo. I am a self taught DevOps Engineer from [Bulawayo
 - 2022 goals: 
 - 1. Microsoft Azure DevOps Engineer Certification
 - 2.
-![Test Image 1](https://www.pinterest.com/pin/265008759303043712/)
+![Test Image 1](https://pinterest.com/pin/265008759303043712/)
