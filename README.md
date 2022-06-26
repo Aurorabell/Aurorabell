@@ -18,7 +18,7 @@ My name is Christabel Khumalo. I am a self taught DevOps Engineer from [Bulawayo
 
 - 2022 goals: 
 - 1. Microsoft Azure DevOps Engineer Certification
-- 2. Get [promoted](https://www.kodekloud-engineer.com/#!/user_profile?uid=16223089912734642) from System Administrator to DevOps engineer on KodeKloud training platform
+- 2. Get promoted from System Administrator to DevOps engineer on KodeKloud training platform. Here is the link to my [profile](https://www.kodekloud-engineer.com/#!/user_profile?uid=16223089912734642)
 
 
 
