@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Christabel Khumalo from Bulawayo, Zimbabwe  </h1>
 <h3 align="center">I am passionate about learning new skills</h3>
 
-<img align="center" alt="Coding" width="400" src="https://giphy.com/stickers/wfh-workfromhome-working-from-home-JWy2zBSXQ55W5Jh00D">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JWy2zBSXQ55W5Jh00D/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurorabell&label=Profile%20views&color=0e75b6&style=flat" alt="aurorabell" /> </p>
 
